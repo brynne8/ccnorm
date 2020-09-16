@@ -6,3 +6,6 @@ Any unicode that looks similar to a latin letter is normalized to latin letters,
 
 # Chinese characters
 Chinese characters (a.k.a kanji) are normalized to Simplified Chinese as much as possible. The normalized Chinese sentence should be readable by native Chinese people.
+
+# Contributing
+The ccnorm.lua is automatically generated, so please report bugs in Issues. Do not send pull requests.
